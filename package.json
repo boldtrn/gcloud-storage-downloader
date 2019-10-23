@@ -1,0 +1,27 @@
+{
+  "name": "gcloud-storage-downloader",
+  "version": "1.0.0",
+  "description": "A small tool that provides helper functions to download from gcloud storage",
+  "main": "gCloudStorageDownloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldtrn/gcloud-storage-downloader.git"
+  },
+  "keywords": [
+    "gcloud",
+    "storage",
+    "download"
+  ],
+  "author": "Robin Boldt",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/boldtrn/gcloud-storage-downloader/issues"
+  },
+  "homepage": "https://github.com/boldtrn/gcloud-storage-downloader#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^4.0.0"
+  }
+}
