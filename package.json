@@ -1,6 +1,6 @@
 {
   "name": "gcloud-storage-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small tool that provides helper functions to download from gcloud storage",
   "main": "gCloudStorageDownloader.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/boldtrn/gcloud-storage-downloader#readme",
   "dependencies": {
-    "@google-cloud/storage": "^4.0.0"
+    "@google-cloud/storage": "^4.2.0"
   }
 }
